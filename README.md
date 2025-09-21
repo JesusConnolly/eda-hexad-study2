@@ -18,3 +18,8 @@ EDA univariado y bivariado del "Hexad-12: Developing and Validating a Short Vers
 2. Instala dependencias:
    ```bash
    pip install -r requirements.txt
+
+## Abrir en Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/JesusConnolly/eda-hexad-study2/blob/main/notebooks/EDA_HEXAD12.ipynb)

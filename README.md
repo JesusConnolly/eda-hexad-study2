@@ -8,7 +8,7 @@ EDA univariado y bivariado del "Hexad-12: Developing and Validating a Short Vers
 - Calcular la fiabilidad de las escalas (alfa de Cronbach).
 
 ## Preguntas guía
-1.¿Cómo se distribuyen edad, género y países en la muestra?
+1. ¿Cómo se distribuyen edad, género y países en la muestra?
 2. ¿Qué tan consistentes son las escalas Hexad (α de Cronbach)?
 3. ¿La edad se relaciona con algún rasgo motivacional?
 4. ¿Existen diferencias por género en motivaciones?

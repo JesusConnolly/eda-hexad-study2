@@ -26,7 +26,7 @@ EDA univariado y bivariado del "Hexad-12: Developing and Validating a Short Vers
 https://colab.research.google.com/github/JesusConnolly/eda-hexad-study2/blob/main/notebooks/EDA_HEXAD12.ipynb)
 
 
-#Fuente del dataset y articulo
+## Fuente del dataset y articulo
 Los datos y cuestionario provienen del artículo:
 Tondello, G. F., Arrambide, R. R., Ribeiro, G., Nacke, L. E. (2023). Hexad-12: Developing and Validating a Short Version of the Gamification User Types Hexad Scale. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. ACM.
 https://dl.acm.org/doi/10.1145/3544548.3580968

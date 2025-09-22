@@ -4,7 +4,7 @@ EDA univariado y bivariado del "Hexad-12: Developing and Validating a Short Vers
 ## Objetivos del análisis
 - Explorar la distribución de variables demográficas (edad, género, país).
 - Analizar los porcentajes de motivaciones Hexad.
-- Evaluar relaciones bivariadas (edad ↔ rasgos, género ↔ rasgos, correlaciones entre rasgos).
+- Evaluar relaciones bivariadas (edad x rasgos, género x rasgos, correlaciones entre rasgos).
 - Calcular la fiabilidad de las escalas (alfa de Cronbach).
 
 ## Preguntas pre-análisis

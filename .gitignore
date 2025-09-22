@@ -206,20 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# — Proyecto EDA: datos y resultados locales —
-data/
-!data/.gitkeep        # deja versionada la carpeta vacía
-figs/
-!figs/.gitkeep
-reports/
-!reports/.gitkeep
-models/
-!models/.gitkeep
-notebooks/.ipynb_checkpoints/
-
-# Si tienes un folder de notebooks:
-# (los .ipynb se versionan; solo ignoramos checkpoints)
-notebooks/.ipynb_checkpoints/
 
 # — Archivos grandes y temporales —
 *.log
